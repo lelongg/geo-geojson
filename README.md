@@ -1,5 +1,7 @@
 # geo-geojson
 
+**This code has been ported to [geojson](https://github.com/georust/geojson), you should use [quick_collection](https://docs.rs/geojson/0.22.0/geojson/fn.quick_collection.html) instead of this crate.**
+
 This crates converts [geojson](https://geojson.org/) strings to [GeometryCollection](https://docs.rs/geo-types/0.4.3/geo_types/struct.GeometryCollection.html).
 
 [![crate.io](https://img.shields.io/crates/v/geo-geojson.svg)](https://crates.io/crates/geo-geojson)
